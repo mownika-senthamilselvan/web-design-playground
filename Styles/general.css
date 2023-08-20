@@ -17,13 +17,12 @@ body{
         background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/header-image.png);
         background-size: cover;
         background-position: center;
-        padding: 10px 8%;
         position: relative;
         
 }
 
 nav{
-    background-color: blueviolet;
+    background-color: red ;
     display: flex;
     align-items: center;
     justify-content: space-between;
